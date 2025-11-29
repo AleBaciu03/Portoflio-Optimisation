@@ -53,3 +53,12 @@ Installazione:
 
 ```bash
 pip install yfinance pandas numpy matplotlib seaborn PyPortfolioOpt
+
+## Output del codice: Matrice di Correlazione degli Asset e Tabella Riassuntiva
+![Portoflio-Optimisation](matrice.png)
+![Portoflio-Optimisation](tab.png)
+
+## Author
+Raoul Alessandro Baciu
+Master's student in Economics and Finance at Ca' Foscari
+[Linkedin](www.linkedin.com/in/raoul-alessandro-baciu-12004b236)
