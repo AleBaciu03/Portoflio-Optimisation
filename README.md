@@ -53,6 +53,7 @@ Installazione:
 
 ```bash
 pip install yfinance pandas numpy matplotlib seaborn PyPortfolioOpt
+```
 
 ## Output del codice: Matrice di Correlazione degli Asset e Tabella Riassuntiva
 ![Portoflio-Optimisation](matrice.png)
